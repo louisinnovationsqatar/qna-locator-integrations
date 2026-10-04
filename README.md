@@ -11,7 +11,7 @@ the current API version.
 ## Start here
 
 1. Create a free account at https://qna.louis-innovations.com/signup with your company email and a
-   Qatar mobile number (500 requests a month free; Pro plans add 5,000 requests a day).
+   Qatar mobile number (500 requests a month free; Pro Monthly adds 5,000 requests in 30 days, Pro Annual 10,000 requests a month).
 2. Create your API key on the dashboard. Keep it on your server.
 3. Pick your platform:
 
@@ -26,7 +26,7 @@ the current API version.
 
 ## Limits that matter when you integrate
 
-- Free: 500 requests per calendar month. Pro: 5,000 requests a day. Counted per account.
+- Free: 500 requests per calendar month. Pro Monthly: 5,000 requests in its 30 days. Pro Annual: 10,000 requests in each month of its 365 days, counted from the payment date. Counted per account.
 - Up to 120 calls a minute per account, and up to 20,000 different addresses located per month.
   Looking up the same address again does not count towards the address limit.
 - Calls from a web page work only from websites you register on the dashboard (up to 10). Server
